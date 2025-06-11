@@ -28,8 +28,8 @@ Train the model over multiple epochs, tracking loss.
 Evaluate model accuracy, plot loss curves, and visualize predictions on a sample.
 
 ## PROGRAM
-### Name: JAIGANESH S
-### Register Number: 212222240037
+### Name: P Balasudhan
+### Register Number: 212222240017
 
 ```python
 import pandas as pd
